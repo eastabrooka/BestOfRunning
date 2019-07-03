@@ -20,16 +20,16 @@ https://www.strava.com/activities/1732988176
 
 # 2019
 
-**The Wall** - Done. 
+**The Wall**
 https://www.strava.com/activities/2453562103 
 
-**The Mighty Deerstalker** - Done. 
+**The Mighty Deerstalker**
 https://www.strava.com/activities/2218165710
 
-**Rat Race - Dirty Weekend** - Done. 
+**Rat Race - Dirty Weekend** 
 https://www.strava.com/activities/2362345559
 
-**Rat Race - Runstock** - Done. 
+**Rat Race - Runstock** 
 https://www.strava.com/activities/2434028309
 
 # 2018
