@@ -3,16 +3,16 @@ Scoreboard of Noteworthy Runs.
 
 # Ultras
 
-**The Wall - 71 Miles ** - Done. 
+**The Wall - 71 Miles** - Done. 
 https://www.strava.com/activities/2453562103 
 
-**Rat Race - Runstock 31 Miles ** - Done. 
+**Rat Race - Runstock 31 Miles** - Done. 
 https://www.strava.com/activities/2434028309
 
 **Endure 24 - 60 Miles** 
 https://www.strava.com/activities/1629968037
 
-**Round Reading - 30 Miles **
+**Round Reading - 30 Miles**
 https://www.strava.com/activities/1732988176
 
 
