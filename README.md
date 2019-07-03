@@ -1,11 +1,27 @@
 # Best Of Running
 Scoreboard of Noteworthy Runs. 
 
-# 2019
+# Ultras
 
 **The Wall** - Done. 
 https://www.strava.com/activities/2453562103 
 
+**Rat Race - Runstock** - Done. 
+https://www.strava.com/activities/2434028309
+
+**Endure 24** - 60 Miles. 
+https://www.strava.com/activities/1629968037
+
+**Round Reading**
+https://www.strava.com/activities/1732988176
+
+
+# Everything Else 
+
+# 2019
+
+**The Wall** - Done. 
+https://www.strava.com/activities/2453562103 
 
 **The Mighty Deerstalker** - Done. 
 https://www.strava.com/activities/2218165710
