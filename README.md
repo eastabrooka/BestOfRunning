@@ -3,7 +3,7 @@ Scoreboard of Noteworthy Runs.
 
 # 2019
 
-**The Wall ** - Done. 
+**The Wall** - Done. 
 https://www.strava.com/activities/2453562103 
 
 
