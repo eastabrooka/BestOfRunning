@@ -60,7 +60,7 @@ https://www.strava.com/activities/1458743389
 # 2017
 **Newbury to Reading** https://www.strava.com/activities/1073534745
 
-**Reading Half Marathon **
+**Reading Half Marathon**
 
 **Tough Mudder** 
 https://www.strava.com/activities/973719106
