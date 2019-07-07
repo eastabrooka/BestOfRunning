@@ -20,6 +20,9 @@ https://www.strava.com/activities/1732988176
 
 ## 2019
 
+**Man Vs Coast**
+https://www.strava.com/activities/2509769904
+
 **The Wall**
 https://www.strava.com/activities/2453562103 
 
