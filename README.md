@@ -3,6 +3,9 @@ Scoreboard of Noteworthy Runs.
 
 ## Ultras
 
+**Man Vs Lakes - 29.85 Miles**
+https://www.strava.com/activities/2548421255
+
 **The Wall - 71 Miles**
 https://www.strava.com/activities/2453562103 
 
@@ -19,6 +22,9 @@ https://www.strava.com/activities/1732988176
 # Everything Else 
 
 ## 2019
+
+**Man Vs Lakes**
+https://www.strava.com/activities/2548421255
 
 **Man Vs Coast**
 https://www.strava.com/activities/2509769904
